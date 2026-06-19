@@ -1,0 +1,4 @@
+stage_id,player_base_hp,enemy_base_hp,reward_gold,clear_time_sec,max_turns,bonus_gold,bonus_max_turns,bonus_max_time_sec,bonus_penalty_interval_sec,bonus_penalty_gold,battle_distance,battle_cells_count,name,_note
+1,10,10,50,999,99,50,10,30,3,5,600,2,邊境森林 (Stage 1),第一章
+2,10,10,50,999,60,51,18,44,3,5,1140,3,關卡 2,
+3,10,20,50,999,60,50,15,30,3,5,600,3,關卡 3,

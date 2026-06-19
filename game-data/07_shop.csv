@@ -1,0 +1,10 @@
+card_id,tier,price_buy,price_upgrade,weight_stage_1,weight_stage_2,weight_stage_3,_note
+goblin,1,12,20,120,60,30,基礎步兵·前期主力
+wolf,1,18,28,70,70,40,突進單位·第二關起常見
+elf,1,20,32,0,60,45,遠程支援·中后期比重上升
+rage_potion,2,14,22,0,0,0,暫停販售·戰吼魔咒（待重設計）
+stone_armor,2,14,22,0,0,0,暫停販售·護壁魔咒（待重設計）
+fire_enchant,2,18,28,0,0,0,暫停販售·焚燒附魔（待重設計）
+goblin_knight,3,38,52,0,0,30,融合：哥布林+狼
+goblin_mage,3,38,52,0,0,30,融合：精靈+哥布林
+goblin_magic_knight,4,58,78,0,0,20,三重融合·稀有高階

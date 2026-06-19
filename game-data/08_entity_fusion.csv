@@ -1,0 +1,8 @@
+material_a,material_b,result_id,enabled,_note
+slime,slime,split_slime,true,史萊姆+史萊姆
+slime,goblin,mucus_goblin,true,史萊姆+哥布林
+slime,wolf,mucus_wolf,true,史萊姆+野狼
+goblin,wolf,goblin_knight,true,哥布林+狼
+elf,goblin,goblin_mage,true,精靈+哥布林
+elf,goblin_knight,goblin_magic_knight,true,二階合成路線1
+goblin_mage,wolf,goblin_magic_knight,true,二階合成路線2
