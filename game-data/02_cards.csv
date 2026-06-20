@@ -6,7 +6,7 @@ id,category,cost,type,hp,max_hp,attack,range,min_range,max_range,agility,move_ce
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
-goblin,entity,2,melee,8,8,1,,0,1,2,1,5,1,,1,false,false,,,false,false,,bg-green-700,"[""scavenge""]",主線小兵,
+goblin,entity,2,melee,8,8,1,,0,1,2,1,8,1,,1,false,false,,,false,false,,bg-green-700,"[""scavenge""]",主線小兵,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -14,7 +14,7 @@ goblin,entity,2,melee,8,8,1,,0,1,2,1,5,1,,1,false,false,,,false,false,,bg-green-
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
-wolf,entity,3,melee,3,3,4,,0,1,5,2,2,1,,1,false,false,,,false,false,,bg-amber-800,,"[""charge""]",高攻低血突進
+wolf,entity,3,melee,2,2,3,,0,1,5,2,1,1,,1,false,false,,,false,false,,bg-amber-800,,"[""charge""]",高攻低血突進
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -136,7 +136,7 @@ split_slime,entity,2,melee,3,3,2,,0,1,5,2,2,1,,1,false,false,,,false,false,,bg-l
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
-mucus_goblin,entity,2,melee,5,5,1,,0,1,3,2,3,1,,1,false,false,,,false,false,,bg-lime-700,,"[""adhesive""]",融合：史萊姆+哥布林
+mucus_goblin,entity,2,melee,5,5,1,,0,1,3,1,5,1,,1,false,false,,,false,false,,bg-lime-700,,"[""adhesive""]",融合：史萊姆+哥布林
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,

@@ -19,6 +19,6 @@ wild_impulse,野性的衝動,【強化】灰燼洗回魔典時牌獲得基因突
 skeleton,骷髏,【代幣】0 費骷髏士兵；消滅：部署後死亡不再回到手牌。,skeleton,bg-slate-700,,
 slime,史萊姆,【基礎單位】膠狀小怪。,slime,bg-lime-500,,
 split_slime,分裂史萊姆,【融合】史萊姆+史萊姆。分裂：死亡後原格召喚史萊姆。,split_slime,bg-lime-600,,
-mucus_goblin,黏液哥布林,【融合】史萊姆+哥布林。黏著者：攻擊命中後目標下回合移動-1。,mucus_goblin,bg-lime-700,,
+mucus_goblin,黏液哥布林,【融合】史萊姆+哥布林。黏著者：被攻擊時攻擊方下回合遲緩（敏捷-2）。,mucus_goblin,bg-lime-700,,
 mucus_wolf,黏液狼,【融合】史萊姆+野狼。滲透者：高移動低血突進。,mucus_wolf,bg-amber-700,,
 magic_ore_grass,魔礦草,【法術】回合結束時若仍在手牌：額外 +1 DP。燒毀。,magic_ore_grass,bg-emerald-700,,

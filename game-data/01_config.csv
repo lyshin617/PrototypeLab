@@ -6,7 +6,6 @@ constants,INITIAL_DP,0
 constants,INITIAL_MAX_DP,5
 constants,TURN_DP_GAIN,1
 constants,SUMMON_PRIORITY_SIDE,player
-constants,MAX_ENEMY_UNITS_ON_FIELD,5
 constants,DP_REGEN_BASE_INTERVAL,2
 constants,MAX_DECK_SIZE,10
 constants,PLAYER_BASE_HP,10

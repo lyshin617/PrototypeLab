@@ -1,8 +1,10 @@
 stage_id,start_turn,every_n_turns,repeat,enemy_id,spawn_count,dp_reward,trigger_on_base_attack,_note
 1,1,0,1,slime,1,1,false,
+1,4,2,2,slime,1,1,false,
+1,5,3,0,slime,1,1,false,
 1,7,0,1,goblin,1,1,false,
 1,7,0,1,wolf,2,1,false,
-1,10,3,0,slime,1,1,false,
+1,8,0,1,goblin,2,1,false,
 2,1,5,0,goblin,2,1,false,
 2,3,0,1,goblin,2,1,false,
 2,5,0,1,wolf,1,1,false,
