@@ -5,4 +5,6 @@ slime,wolf,mucus_wolf,true,史萊姆+野狼
 goblin,wolf,goblin_knight,true,哥布林+狼
 elf,goblin,goblin_mage,true,精靈+哥布林
 elf,goblin_knight,goblin_magic_knight,true,二階合成路線1
-goblin_mage,wolf,goblin_magic_knight,true,二階合成路線2
+slime,bone_grub,mucus_wall,true,膠質+腐肉→黏稠壁壘
+slime,elf,bounty_fungus,true,膠質+群體→巨型菌體
+wolf,elf,blood_wolf,true,突進+遠程→高速肉狼

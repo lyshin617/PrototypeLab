@@ -1,0 +1,4 @@
+profile_id,name,slot_count,reroll_enabled,reroll_cost,delete_enabled,delete_cost,fusion_enabled,pool_id,price_modifier,_note
+shop_basic,旅途商店,4,true,5,false,0,false,pool_basic,1.0,無指定卡池則 fallback 全域
+shop_elite,精品商店,6,true,10,true,15,false,pool_elite,1.2,使用精品卡池
+shop_fusion,煉金商店,3,false,0,false,0,true,pool_fusion,1.0,含融合功能

@@ -3,12 +3,13 @@ constants,BATTLEFIELD_WIDTH,1500
 constants,PLAYER_BASE_X,180
 constants,ENEMY_BASE_X,1320
 constants,INITIAL_DP,0
-constants,INITIAL_MAX_DP,5
+constants,INITIAL_MAX_DP,7
 constants,TURN_DP_GAIN,1
 constants,SUMMON_PRIORITY_SIDE,player
 constants,DP_REGEN_BASE_INTERVAL,2
 constants,MAX_DECK_SIZE,10
-constants,PLAYER_BASE_HP,10
+constants,PLAYER_CASTLE_MAX_HP,5
+constants,PLAYER_CASTLE_INITIAL_HP,5
 constants,UNLOCK_STAGE_FUSION,2
 constants,UNLOCK_STAGE_DELETE,3
 constants,UNLOCK_STAGE_REROLL,1
@@ -27,7 +28,8 @@ constants,RHYTHM_SETTLEMENT_MAX_COMBO_SCORE,2
 constants,RHYTHM_SETTLEMENT_SCORE_DIVISOR,20
 constants,TURN_SETTLEMENT_HP_BONUS_DIVISOR,10
 constants,HAND_DRAW_SIZE,1
-initial_deck,slime,3
+initial_deck,slime,2
 constants,INITIAL_HAND_DRAW_SIZE,3
-initial_deck,goblin,1
-initial_deck,wolf,1
+constants,HAND_KEEP_SIZE,5
+constants,REWARD_SKIP_GOLD,15
+initial_deck,mycelium_nest,1

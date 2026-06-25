@@ -1,0 +1,3 @@
+station_id,name,fusion_cost,allowed_recipes,bonus_effect,_note
+fusion_basic,融合實驗室,0,,,免費融合（預設）
+fusion_premium,高級實驗室,10,,gene_mutation_+1,付費融合，額外基因突變

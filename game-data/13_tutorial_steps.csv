@@ -1,0 +1,10 @@
+stage_id,step_order,trigger,trigger_param,highlight,text,gate,hard_pause,_note
+101,1,battle_start,,ui:dp,每張卡左上角是 **DP 花費**。部署會消耗 DP。,,false,
+101,2,battle_start,,cell:1,把史萊姆拖到**塔下格**部署。,deploy:cell=1,false,
+101,3,deploy_done,,button:endTurn,按**結束出牌**，單位才會開始行動。,end_turn,false,
+101,4,knockback,,,傷害打穿韌性 → **擊退 1 格**！韌性歸零的單位會被推向己方主堡方向。,tap,true,
+102,1,battle_start,,,這次的目標是**摧毀敵方主堡**。清掉擋路的敵人，推進戰線！,tap,false,
+103,1,battle_start,,hand:fusion,手上有**史萊姆**和**野狼**。在手牌區**融合**兩張卡。,fusion_done,false,
+103,2,fusion_done,,card:fusion_result,融合成功！**雙擊這張卡**查看詳細資訊，了解它的**詞條**效果。,inspect_card,false,
+103,3,card_inspected,,cell:1,了解詞條後，把單位部署到塔下格吧。,deploy:cell=1,false,
+103,4,stage_clear,,,教學完成！準備進入正式旅程。,,false,
