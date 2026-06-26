@@ -8,3 +8,6 @@ elf,goblin_knight,goblin_magic_knight,true,二階合成路線1
 slime,bone_grub,mucus_wall,true,膠質+腐肉→黏稠壁壘
 slime,elf,bounty_fungus,true,膠質+群體→巨型菌體
 wolf,elf,blood_wolf,true,突進+遠程→高速肉狼
+magic_ore_grass,magic_ore_grass,magic_ore_grass_pile,true,魔礦草+魔礦草
+magic_ore_grass,magic_ore_grass_pile,magic_ore_grass_pile,true,魔礦草+一堆魔礦草
+magic_ore_grass_pile,magic_ore_grass_pile,magic_ore_grass_pile,true,一堆魔礦草+一堆魔礦草

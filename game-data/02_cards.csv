@@ -22,6 +22,7 @@ split_slime,entity,2,melee,3,3,2,,0,1,3,2,3,1,,1,false,false,,,false,false,,bg-l
 mucus_goblin,entity,2,melee,5,5,1,,0,1,3,1,5,1,,1,false,false,,,false,false,,bg-lime-700,,"[""adhesive""]",
 mucus_wolf,entity,2,melee,2,2,4,,0,1,5,3,1,1,,1,false,false,,,false,false,,bg-amber-700,,"[""charge""]",
 magic_ore_grass,spell,0,,,,,,,,,,,,,1,true,false,,,false,false,,bg-emerald-700,"[""burn""]",,
+magic_ore_grass_pile,spell,0,,,,,,,,,,,,,1,true,false,,,false,false,,bg-emerald-700,"[""burn""]",,跟一株魔礦草沒兩樣
 straw_dummy,entity,0,melee,3,3,0,,0,0,5,0,2,1,,1,false,false,,,false,false,,bg-amber-200,,,
 carrion,entity,1,melee,2,2,1,,0,1,3,1,2,1,,1,false,false,,,false,false,,bg-indigo-800,"[""last_word""]",,
 bone_grub,entity,1,melee,2,2,1,,0,1,4,1,2,1,,1,false,false,,,false,false,,bg-zinc-600,"[""soul_release"",""scavenge""]",,
