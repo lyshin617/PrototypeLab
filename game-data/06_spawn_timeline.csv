@@ -1,21 +1,26 @@
-stage_id,start_turn,every_n_turns,repeat,enemy_id,spawn_count,dp_reward,trigger_on_base_attack,spawn_cell,_note
-1,1,1,1,slime,1,1,false,,開局壓力
-1,4,2,2,slime,1,1,false,,輕壓預告
-1,8,0,1,goblin,1,1,false,,中段考驗
-2,2,0,1,goblin,2,1,false,,精英開場
-2,5,0,1,wolf,1,1,false,,突進威脅
-2,9,0,1,goblin,2,1,false,,收尾壓力
-3,1,5,0,goblin,2,1,false,,
-3,2,7,0,goblin,2,1,false,,
-3,4,2,0,slime,1,1,false,,
-4,1,0,1,goblin,2,1,false,,深林開場
-4,4,0,1,wolf,1,1,false,,突進
-4,7,0,1,goblin,1,1,false,,
-4,7,0,1,wolf,1,1,false,,雙線壓力
-5,1,0,1,goblin,2,1,false,,Boss 開場
-5,4,0,1,forest_heart_guardian,1,2,false,,Boss 護衛
-5,8,0,1,wolf,2,1,false,,雙狼壓制
-5,12,3,0,slime,1,1,false,,反僵持
-101,1,0,1,straw_dummy,1,1,false,3,開局稻草人
-102,2,0,1,slime,1,1,false,,低壓力
-103,3,0,1,slime,1,1,false,,低壓力
+stage_id,start_turn,every_n_turns,repeat,enemy_id,spawn_count,dp_reward,trigger_on_base_attack,trigger_enemy_hp_at_or_below,spawn_cell,_note
+1,1,1,1,slime,1,1,false,,,開局壓力
+1,4,2,2,slime,1,1,false,,,輕壓預告
+1,5,0,1,goblin,1,1,false,1,,主堡瀕死最後手段
+1,8,0,1,goblin,1,1,false,,,中段考驗
+2,2,0,1,goblin,2,1,false,,,精英開場
+2,5,0,1,wolf,1,1,false,,,突進威脅
+2,6,0,1,wolf,1,1,false,3,,主堡殘血反扑
+2,9,0,1,goblin,2,1,false,,,收尾壓力
+3,1,5,0,goblin,2,1,false,,,
+3,2,7,0,goblin,2,1,false,,,
+3,4,2,0,slime,1,1,false,,,
+4,1,0,1,goblin,2,1,false,,,深林開場
+4,4,0,1,wolf,1,1,false,,,突進
+4,5,0,1,goblin,2,1,false,4,,深林反撃
+4,7,0,1,goblin,1,1,false,,,
+4,7,0,1,wolf,1,1,false,,,雙線壓力
+5,1,0,1,goblin,2,1,false,,,Boss 開場
+5,1,0,1,forest_heart_guardian,1,2,false,6,,二階段護衛
+5,4,0,1,forest_heart_guardian,1,2,false,,,Boss 護衛
+5,8,0,1,wolf,2,1,false,,,雙狼壓制
+5,10,0,1,wolf,2,1,false,2,,瀕死雙狼反扑
+5,12,3,0,slime,1,1,false,,,反僵持
+101,1,0,1,straw_dummy,1,1,false,,3,開局稻草人
+102,2,0,1,slime,1,1,false,,,低壓力
+103,3,0,1,slime,1,1,false,,,低壓力

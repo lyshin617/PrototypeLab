@@ -32,4 +32,3 @@ initial_deck,slime,2
 constants,INITIAL_HAND_DRAW_SIZE,3
 constants,HAND_KEEP_SIZE,5
 constants,REWARD_SKIP_GOLD,15
-initial_deck,mycelium_nest,1
